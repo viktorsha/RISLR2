@@ -20,12 +20,6 @@ namespace WebApplication2._1
         string path = @"D:\Viktoria\University\4 cource\1 semester\РИС\ЛР 2\WebApplication2.1\WebApplication2.1\";
 
         [WebMethod]
-        public string HelloWorld()
-        {
-            return "Hello World";
-        }
-
-        [WebMethod]
         public string ReturnXml(string filename)
         {
             try
