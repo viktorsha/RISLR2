@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students>
+  <Student>
+    <FirstName>Tanmay</FirstName>
+    <LastName>Patil</LastName>
+    <Subjects>
+      <Maths>
+        <Topic>Multiplication</Topic>
+        <Mark>9</Mark>
+      </Maths>
+      <Biology>
+        <Topic>Multiplication</Topic>
+        <Mark>7</Mark>
+      </Biology>
+      <Physics>
+        <Topic>Multiplication</Topic>
+        <Mark>9</Mark>
+      </Physics>
+    </Subjects>
+  </Student>
+  <Student>
+    <FirstName>Elina</FirstName>
+    <LastName>Pererson</LastName>
+    <Subjects>
+      <Maths>
+        <Topic>Multiplication</Topic>
+        <Mark>6</Mark>
+      </Maths>
+      <Biology>
+        <Topic>Genom</Topic>
+        <Mark>8</Mark>
+      </Biology>
+      <Physics>
+        <Topic>Something on physicheskom</Topic>
+        <Mark>9</Mark>
+      </Physics>
+    </Subjects>
+  </Student>
+</Students>

@@ -1,0 +1,9 @@
+﻿.text {
+    text-align: center;
+    font-family: Verdana;
+}
+#Submit{
+    background-color: white;
+    border: 2px solid #1303a1;
+    color: black;
+}
